@@ -250,9 +250,14 @@ def MakeRealisticAttachments(args):
         # under-barrel or side-barrel rail. In this case we will have entries for this attachment in 'compatibleAttachments'. We
         # have to get rid of redundant entries as the game does not those mount positions; also, multiple entries will spam
         # Attachments.xml what is not good.
+        # NB: each entry below is a deepcopy, so the old identity-based "item not in filteredList"
+        # check never matched -- the same attachment slipped through once per compatible interface,
+        # which is what produced duplicate rows in Attachments.xml. De-duplicate by attachment_id.
         filteredList = list();
+        seenAttIds = set();
         for item in compatibleAttachments:
-            if item not in filteredList:
+            if item.attrib["attachment_id"] not in seenAttIds:
+                seenAttIds.add(item.attrib["attachment_id"]);
                 filteredList.append(item);
         compatibleAttachments = filteredList;
         
@@ -278,42 +283,54 @@ def MakeRealisticAttachments(args):
         # combinations (which correspond to 'compatibleAttachments' list) will be kept, and additional allowed combinations
         # (if any) will be added. To do so, we assume that current Attachments.xml allows too much possible attachments, much
         # more than it in real life is.
+        # Build the target state for this gun: attachment_id -> APCost (from its marked slot).
+        # compatibleAttachments is de-duplicated by attachment_id (see above), so each allowed
+        # attachment maps to exactly one row -- the loop below can never emit a duplicate.
+        allowedApCost = dict();
+        for att in compatibleAttachments:
+            allowedApCost[att.attrib["attachment_id"]] = _GetCompatibleSlot(att).attrib["timeAP"];
+
+        # Walk this gun's existing rows ONCE. Removing from 'attachments' while iterating it would
+        # silently skip the next element, so we collect rows to delete and remove them afterwards.
+        # The same pass drops any exact duplicate (attachment,gun) rows, which both satisfies the
+        # XML editor's unique constraint and makes re-running this script idempotent.
+        seenForGun = set();
+        rowsToRemove = list();
         for attachment in attachments:
-            if XmlUtils.GetTagValue(attachment, "itemIndex") == gunId:  # found an attachment for a gun in question
-                attachmentId = XmlUtils.GetTagValue(attachment, "attachmentIndex");
-                attachmentName = XmlUtils.GetTagValue(items[int(attachmentId)], "szLongItemName");
-                compatibleAttachment = _FindCompatibleAttachment(compatibleAttachments, attachmentId);
-                if compatibleAttachment != None:  # if the 'attachment' is in allowed list
-                    compatibleSlot = _GetCompatibleSlot(compatibleAttachment);
-                    if compatibleSlot == None:  # at this point _GetCompatibleSlot() must return an object, not None
-                        exceptionDbgText = _FormatDbgText(gunId, gunName, compatibleAttachments, compatibleAttachment);
-                        _Log(log, "Script aborted at: " + exceptionDbgText);
-                        raise Exception(exceptionDbgText);
-                    prevApCost = XmlUtils.GetTagValue(attachment, "APCost");
-                    newApCost = compatibleSlot.attrib["timeAP"];
-                    if prevApCost != newApCost:
-                        XmlUtils.SetTagValue(attachment, "APCost", newApCost);  # then update APCost and leave it
-                        _Log(log, "~  \'{}\' ({}) APCost: {} --> {}".format(attachmentName, attachmentId, prevApCost, newApCost));
-                    compatibleAttachments.remove(compatibleAttachment);  # we don't need it anymore as there is no sence to put the same element into Attachments.xml more than once
-                elif attachmentId not in ignoredAttList:  # otherwise remove it from Attachments.xml (if not an ignored attachment, of course)
-                    _Log(log, "-  \'{}\' ({})".format(attachmentName, attachmentId));
-                    attachments.remove(attachment);
-        
-        # Check if something is left in 'compatibleAttachments', and if it is, that means we have some new attachments for Attachments.xml
-        # in our realistic attachments update.
-        if len(compatibleAttachments) > 0:
-            for att in compatibleAttachments:
-                attId = att.attrib["attachment_id"];
-                attName = att.attrib["name"];
-                print("ACHTUNG! Add a new entry to Attachments.xml: [{}] {} --> [{}] {}".format(attId, attName, gunId, gunName));
-                
-                compatibleSlot = _GetCompatibleSlot(att);
-                newAttachment = copy.deepcopy(attachments[0]);  # take a copy of the first element of the tree as it is much easier than create&fill a new element object
-                XmlUtils.SetTagValue(newAttachment, "attachmentIndex", attId);
-                XmlUtils.SetTagValue(newAttachment, "itemIndex", gunId);
-                XmlUtils.SetTagValue(newAttachment, "APCost", compatibleSlot.attrib["timeAP"]);
-                attachments.append(newAttachment);
-                _Log(log, "+  \'{}\' ({})".format(attName, attId));
+            if XmlUtils.GetTagValue(attachment, "itemIndex") != gunId:
+                continue;
+            attachmentId = XmlUtils.GetTagValue(attachment, "attachmentIndex");
+            attachmentName = XmlUtils.GetTagValue(items[int(attachmentId)], "szLongItemName");
+            if attachmentId in seenForGun:  # a row for this attachment was already kept -> duplicate
+                _Log(log, "-  (duplicate) '{}' ({})".format(attachmentName, attachmentId));
+                rowsToRemove.append(attachment);
+                continue;
+            seenForGun.add(attachmentId);
+            if attachmentId in ignoredAttList:  # ignored attachments are kept exactly as they are
+                continue;
+            if attachmentId in allowedApCost:  # realistic -> keep it and refresh its APCost
+                prevApCost = XmlUtils.GetTagValue(attachment, "APCost");
+                newApCost = allowedApCost.pop(attachmentId);  # pop -> it won't be re-added below
+                if prevApCost != newApCost:
+                    XmlUtils.SetTagValue(attachment, "APCost", newApCost);
+                    _Log(log, "~  '{}' ({}) APCost: {} --> {}".format(attachmentName, attachmentId, prevApCost, newApCost));
+            else:  # not a realistic attachment for this gun -> remove it
+                _Log(log, "-  '{}' ({})".format(attachmentName, attachmentId));
+                rowsToRemove.append(attachment);
+
+        for attachment in rowsToRemove:
+            attachments.remove(attachment);
+
+        # Whatever remains in allowedApCost has no row yet -> add it exactly once.
+        for attId in allowedApCost:
+            attName = XmlUtils.GetTagValue(items[int(attId)], "szLongItemName");
+            print("ACHTUNG! Add a new entry to Attachments.xml: [{}] {} --> [{}] {}".format(attId, attName, gunId, gunName));
+            newAttachment = copy.deepcopy(attachments[0]);  # clone the first row rather than build one from scratch
+            XmlUtils.SetTagValue(newAttachment, "attachmentIndex", attId);
+            XmlUtils.SetTagValue(newAttachment, "itemIndex", gunId);
+            XmlUtils.SetTagValue(newAttachment, "APCost", allowedApCost[attId]);
+            attachments.append(newAttachment);
+            _Log(log, "+  '{}' ({})".format(attName, attId));
         
         _Log(log, "");  # append new line
     
