@@ -184591,6 +184591,7 @@ the globe.</szItemDesc>
 		<uiIndex>5801</uiIndex>
 		<szItemName>Placeholder 5801</szItemName>
 		<szLongItemName>Placeholder 5801</szLongItemName>
+		<usItemClass>1</usItemClass>
 		<usOverheatingCooldownFactor>100</usOverheatingCooldownFactor>
 		<STAND_MODIFIERS />
 		<CROUCH_MODIFIERS />
