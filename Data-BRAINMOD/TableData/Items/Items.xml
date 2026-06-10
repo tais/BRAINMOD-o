@@ -24,7 +24,6 @@
 		<AttachmentPoint>0</AttachmentPoint>
 		<AttachToPointAPCost>0</AttachToPointAPCost>
 		<ubClassIndex>0</ubClassIndex>
-		<ItemFlag>0</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<bSoundType>0</bSoundType>
 		<ubGraphicType>3</ubGraphicType>
@@ -2602,7 +2601,6 @@
 		<szBRDesc>Reputed for its reliability, this Belgian machine gun is gas operated, with a simple rotating bolt system. Its design was adopted by the US Army as the M249 machine gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>34</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>34</ubGraphicNum>
 		<ubWeight>67</ubWeight>
@@ -2750,7 +2748,6 @@
 		<szBRDesc>The German Heckler and Koch 21 is a fantastic all-purpose machine gun, featuring a heavy yet easily changeable barrel. Its bipod offers 3 height settings on which the gun can pivot 30 degrees in either direction.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>36</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>36</ubGraphicNum>
 		<ubWeight>79</ubWeight>
@@ -5642,7 +5639,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>834</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>145</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -5666,7 +5662,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>832</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>146</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -5689,7 +5684,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>945</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>164</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -5713,7 +5707,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>943</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>165</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -5784,7 +5777,6 @@
 		<szBRDesc>This rack contains 10 Soviet made PFM-1 landmines, also known as butterfly mines. These small mines are rather nasty, as they can't be detected with a metal detector. However, they only contain a small amount of explosives.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>36</ubClassIndex>
-		<ItemFlag>131072</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>639</ubGraphicNum>
 		<ubWeight>22</ubWeight>
@@ -6363,7 +6355,6 @@
 		<szBRDesc>The mine is, in essence, a plastic container containing explosive liquid. The mine is stored with a pin restraining a detonating plunger. Once the arming pin is removed, the plunger is slowly forced forward by a spring until it contacts the detonator, at which point it is armed.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>35</ubClassIndex>
-		<ItemFlag>131072</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>638</ubGraphicNum>
@@ -7406,7 +7397,6 @@
 		<szBRDesc>A bomber-style leather aviation jacket.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>135</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>96</ubGraphicNum>
 		<ubWeight>16</ubWeight>
@@ -7435,7 +7425,6 @@
 		<szBRDesc>Not for sale. Quest reqard for Angel quest.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>11</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>735</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -7527,7 +7516,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>126</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>25</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -7553,7 +7541,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>127</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>34</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -10948,7 +10935,6 @@
 		<szBRName>Rag</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>1024</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>204</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -11051,7 +11037,6 @@
 		<szBRName>Corpse</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>32768</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>230</ubGraphicNum>
 		<ubWeight>880</ubWeight>
@@ -11242,7 +11227,6 @@
 		<szBRName>Plush Monkey</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4096</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>714</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -11265,7 +11249,6 @@
 		<szBRName>Gun Cleaning Kit</szBRName>
 		<szBRDesc>Even the most deadly tools of destruction need to be looked after from time to time..</szBRDesc>
 		<usItemClass>8192</usItemClass>
-		<ItemFlag>2048</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1017</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -13321,7 +13304,6 @@
 		<szBRName>Scuba Mask</szBRName>
 		<szBRDesc>This mask, in conjunction with a diving bottle, allows you to stay underwater.</szBRDesc>
 		<usItemClass>32768</usItemClass>
-		<ItemFlag>4194304</ItemFlag>
 		<ubGraphicNum>381</ubGraphicNum>
 		<ubWeight>7</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
@@ -13351,7 +13333,6 @@
 		<szBRDesc>Standard equipment for divers.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>4</ubClassIndex>
-		<ItemFlag>2097152</ItemFlag>
 		<ubGraphicNum>382</ubGraphicNum>
 		<ubWeight>65</ubWeight>
 		<ItemSize>788</ItemSize>
@@ -13377,7 +13358,6 @@
 		<szBRDesc>Not only can you swim much faster with these, you'll also be the star of every penguin-themed costume party.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>14</ubClassIndex>
-		<ItemFlag>8388608</ItemFlag>
 		<ubGraphicNum>383</ubGraphicNum>
 		<ubWeight>12</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
@@ -13402,7 +13382,6 @@
 		<szBRDesc>AN/PRC 77 Radio Set is a manpack, portable VHF FM combat-net radio transceiver used to provide short-range, two-way radiotelephone voice communication. It entered service in 1968 during the Vietnam War and is still in use all over the world.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>5</ubClassIndex>
-		<ItemFlag>33554432</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>837</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -13493,7 +13472,6 @@
 		<szBRName>Handcuffs</szBRName>
 		<szBRDesc>Standard police handcuffs.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>524288</ItemFlag>
 		<ubGraphicNum>384</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
@@ -13518,7 +13496,6 @@
 		<szBRName>Hinged Handcuffs</szBRName>
 		<szBRDesc>These ASP handcuffs provide a major advance in both the design and construction of wrist restraints. Frame geometry is the result of extensive computer modeling and analysis. Strength potential has been maximized through the use of an interlocking, unitized frame.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>524288</ItemFlag>
 		<ubGraphicNum>386</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ItemSize>915</ItemSize>
@@ -13543,7 +13520,6 @@
 		<szBRName>Cable Ties</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>8192</usItemClass>
-		<ItemFlag>524288</ItemFlag>
 		<ubGraphicNum>385</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ItemSize>916</ItemSize>
@@ -13870,7 +13846,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>14</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>799</ubGraphicNum>
 		<ubWeight>10</ubWeight>
 		<ItemSize>810</ItemSize>
@@ -13896,7 +13871,6 @@
 		<szBRDesc>The trench coat was typically worn as a windbreaker or as a rain jacket, It can be used to conceal certain firearms.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>15</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1567</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -14467,7 +14441,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>34</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>851</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -14496,7 +14469,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>35</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>851</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -15308,7 +15280,6 @@
 		<szBRDesc>A practical small backpack that can be worn as a combat pack.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>62</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>111</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -15334,7 +15305,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>63</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>111</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -15959,7 +15929,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>84</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>136</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -15986,7 +15955,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>85</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>136</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -16134,7 +16102,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>88</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>125</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -16198,7 +16165,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>89</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>450</ubGraphicNum>
 		<ubWeight>10</ubWeight>
@@ -16224,7 +16190,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>90</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>173</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -16443,7 +16408,6 @@
 		<szBRDesc>This small pistol holster can be easily concealed and holds a spare magazine. Suited for covert ops.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>98</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>428</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ItemSize>824</ItemSize>
@@ -17334,7 +17298,6 @@
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>124</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>174</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -18339,7 +18302,6 @@
 		<szBRDesc>Easily hidden undeneath a regular jacket, this covert ops vest has several small pockets and a pistol holster for concealed carry. Suited for covert ops.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>143</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>736</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -18366,7 +18328,6 @@
 		<szBRDesc>If you need more firepower during covert missions, this shoulder holster lets you hide an MP under your jacket. Suited for covert ops.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>144</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>737</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -18653,7 +18614,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>150</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>954</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -20532,7 +20492,6 @@
 		<szBRDesc>Want to keep a low profile and still be able to carry around useful items? This shooting jacket is a perfect fit.</szBRDesc>
 		<usItemClass>131072</usItemClass>
 		<ubClassIndex>205</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>630</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -21094,7 +21053,6 @@
 		<usItemClass>131072</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>221</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>131</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -42554,7 +42512,6 @@
 		<szBRName>Tool - Folding Spade</szBRName>
 		<szBRDesc>Perfect for digging your own grave, or hitting people over the head (and then dig their grave).</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>197</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -42586,7 +42543,6 @@
 		<szBRName>Tool - Shovel</szBRName>
 		<szBRDesc>Call it Linnemann's spade or russian MPL-50, it is a classic entrenching tool which has a total length of 50 cm and fixed handle. It saw wide ranged wartime applications ranging from a close quarters combat weapon to cooking utensil.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>2000</ubGraphicNum>
 		<ubWeight>9</ubWeight>
@@ -42618,7 +42574,6 @@
 		<szBRName>Tool - Entrenching Pick</szBRName>
 		<szBRDesc>Besides being used for digging defensive fighting positions, entrenching tools are used for digging latrines and graves.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>625</ubGraphicNum>
 		<ubWeight>12</ubWeight>
@@ -42648,7 +42603,6 @@
 		<szBRName>Tool - Mining Pick</szBRName>
 		<szBRDesc>A simple mining pick.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1882</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -42678,7 +42632,6 @@
 		<szBRName>Tool - Mining Shovel</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1886</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -42923,7 +42876,6 @@
 		<szBRName>Tool - Brush Hook</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>4</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1885</ubGraphicNum>
 		<ubWeight>28</ubWeight>
@@ -44178,7 +44130,6 @@
 		<szBRDesc>A small roll of tripwire to set up booby traps.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>47</ubClassIndex>
-		<ItemFlag>16777216</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>35</ubGraphicNum>
@@ -48428,7 +48379,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>INTERNAL ITEM, DO NOT USE!!!</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>15</ubClassIndex>
-		<ItemFlag>268435456</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>3</ubGraphicType>
 		<ubGraphicNum>12</ubGraphicNum>
@@ -49443,7 +49393,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRName>Food - Cow Meat</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>64</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>514</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -49549,7 +49498,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRName>Food - Bloodcat Meat</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>32</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>515</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -50714,7 +50662,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRName>Water - Drum</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>16</ItemFlag>
 		<ubGraphicNum>845</ubGraphicNum>
 		<ubWeight>1200</ubWeight>
 		<ItemSize>949</ItemSize>
@@ -60577,7 +60524,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>A small roll of tripwire to set up booby traps.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>174</ubClassIndex>
-		<ItemFlag>16777216</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>66</ubGraphicNum>
@@ -62293,7 +62239,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>These mines consist of a small green camouflage fabric pouch filled with lead(II) azide and 30 grams of coarse ground glass between two sheets of plastic. No fuse is required because the explosive becomes shock-sensitive after dispersal, i.e. able to be detonated without a fuse on contact.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>203</ubClassIndex>
-		<ItemFlag>131072</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>640</ubGraphicNum>
@@ -62434,7 +62379,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>512</usItemClass>
 		<ubClassIndex>207</ubClassIndex>
-		<ItemFlag>131072</ItemFlag>
 		<ubCursor>18</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1889</ubGraphicNum>
@@ -63311,7 +63255,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<ubClassIndex>228</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>810</ubGraphicNum>
-		<ItemFlag>67108864</ItemFlag>
 		<ubWeight>17</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>686</ItemSize>
@@ -64014,7 +63957,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>This baseball cap is the perfect headwear if your helmet gets too hot. Provides limited camouflage and protects the eyes from bright sun light.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>17</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1098</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -64102,7 +64044,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>A regular baseball cap that will not only make you look sharp but also will protect you from bright sun light.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>20</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>1038</ubGraphicNum>
 		<ubWeight>1</ubWeight>
 		<ItemSize>740</ItemSize>
@@ -64342,7 +64283,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>27</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>685</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64403,7 +64343,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>28</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>403</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64430,7 +64369,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>A classical bush hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>29</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>3</ubGraphicType>
 		<ubGraphicNum>16</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64457,7 +64395,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>30</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>949</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ItemSize>742</ItemSize>
@@ -64508,7 +64445,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>A classic brown felt men's pork pie hat.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>32</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>1039</ubGraphicNum>
 		<ubWeight>3</ubWeight>
 		<ItemSize>742</ItemSize>
@@ -64588,7 +64524,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Not your best choice against bullets, but the hard hat protects your head against falling rocks.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>35</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1578</ubGraphicNum>
 		<ubWeight>7</ubWeight>
@@ -64760,7 +64695,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>Want to go duck hunting or just feel the desire to be different drom everybody around you?</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>41</ubClassIndex>
-		<ItemFlag>4096</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>591</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -64790,7 +64724,6 @@ It can force you to evacuate your neighborhood, workplace or school or can even 
 		<szBRDesc>The rastacap or a tall, round, crocheted cap. It is worn as a way for Rastafarians and others with dreadlocks to tuck their locks away.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>42</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1903</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -67193,7 +67126,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>128</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>181</ubGraphicNum>
 		<ubWeight>3</ubWeight>
@@ -67219,7 +67151,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>129</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>302</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -67246,7 +67177,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>130</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1080</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -67274,7 +67204,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>131</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>469</ubGraphicNum>
 		<ubWeight>6</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
@@ -67301,7 +67230,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>132</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1037</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -67329,7 +67257,6 @@ the globe.</szItemDesc>
 		<szBRDesc>A stylish black suit jacket.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>133</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1119</ubGraphicNum>
 		<ubWeight>8</ubWeight>
@@ -67356,7 +67283,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>134</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>990</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -67555,7 +67481,6 @@ the globe.</szItemDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<ubClassIndex>141</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>129</ubGraphicNum>
 		<ubWeight>15</ubWeight>
@@ -67585,7 +67510,6 @@ the globe.</szItemDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<ubClassIndex>142</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>249</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -67618,7 +67542,6 @@ the globe.</szItemDesc>
 		<usItemClass>2048</usItemClass>
 		<nasAttachmentClass>2</nasAttachmentClass>
 		<ubClassIndex>143</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>250</ubGraphicNum>
 		<ubWeight>13</ubWeight>
@@ -73670,7 +73593,6 @@ the globe.</szItemDesc>
 		<szBRDesc>TAD Gear isn't exactly a household name.  So it's no wonder we've only recently discovered this high end manufacturer, who has a series of tactical pants that attempt to trump all others.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>320</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>258</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -73699,7 +73621,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>321</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>67</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -73724,7 +73645,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>322</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1081</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -73751,7 +73671,6 @@ the globe.</szItemDesc>
 		<szBRDesc>High quality pants.</szBRDesc>
 		<usItemClass>2048</usItemClass>
 		<ubClassIndex>323</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>991</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -99810,7 +99729,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Keeping an eye on quality helps keep Beretta small caliber semi-automatics out front. The new Inox versions and the exclusive 3032 Tomcat Titanium utilize the finest materials, difficult to machine but exceptionally corrosion resistant and durable.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>4182</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>832</ubGraphicNum>
 		<ubWeight>4</ubWeight>
@@ -100301,7 +100219,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Once in a great while, a firearm becomes so popular that it becomes a cultural icon. With its elegant lines and precision engineering the PPK established a defining influence on the design of concealed carry firearms.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>4189</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>831</ubGraphicNum>
 		<ubWeight>6</ubWeight>
@@ -105597,7 +105514,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>4323</ubClassIndex>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>927</ubGraphicNum>
 		<ubWeight>5</ubWeight>
 		<ItemSize>32</ItemSize>
@@ -169065,7 +168981,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Its full-auto bark has been heard in nearly every corner of the globe. If you need a squad automatic, look no further.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5506</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>141</ubGraphicNum>
 		<ubWeight>60</ubWeight>
@@ -169140,7 +169055,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5507</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>917</ubGraphicNum>
 		<ubWeight>50</ubWeight>
@@ -169302,7 +169216,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Ares changed the M4 assault rifle to a LMG with a completely new upper receiver. Comes with a C-Mag Adapter for a much bigger mag capacity.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5511</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>672</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -169375,7 +169288,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The Ameli we have in stock are the 'light-bolt'-versions with a higher rate of fire than the 'heavy-bolt'-model. Comes with bipod.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5512</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>404</ubGraphicNum>
@@ -169545,7 +169457,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The Special Forces version of the Minmi is smaller, lighter and easier to use, but can still kick major ass in every situation.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5517</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>767</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -169619,7 +169530,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5518</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>92</ubGraphicNum>
 		<ubWeight>65</ubWeight>
@@ -169715,7 +169625,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The manufacturer's name says it all.  We highly recommend the HK 23E. It's reliable and does the job effectively with 100-rounds in a Beta C-Mag.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5521</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>270</ubGraphicNum>
 		<ubWeight>72</ubWeight>
@@ -170094,7 +170003,6 @@ the globe.</szItemDesc>
 		<szBRDesc>First shown in 2001 in London, the all-new MG43 continues HK's long standing tradition of fine weaponry. Comes standard with integral bipod. Since 2006 it's introduced in the Bundeswehr (German Army) as the MG4.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5526</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>238</ubGraphicNum>
 		<ubWeight>68</ubWeight>
@@ -170169,7 +170077,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5527</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>745</ubGraphicNum>
 		<ubWeight>68</ubWeight>
@@ -170338,7 +170245,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The Negev is a light machinegun comparable to the FN Minimi.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5531</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>540</ubGraphicNum>
 		<ubWeight>74</ubWeight>
@@ -170412,7 +170318,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5532</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>600</ubGraphicNum>
 		<ubWeight>74</ubWeight>
@@ -170491,7 +170396,6 @@ the globe.</szItemDesc>
 		<szBRDesc>A compact and light weight squad support weapon, the KAC LMG is a favorite choice for every Private Military Contractor who needs a lot of firepower in a small package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5533</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>258</ubGraphicNum>
 		<ubWeight>45</ubWeight>
@@ -170563,7 +170467,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5534</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>698</ubGraphicNum>
 		<ubWeight>45</ubWeight>
@@ -171238,7 +171141,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Nail your enemies to the walls with the FN MAG. With a fire rate of 950 rounds per minute, you can draw a deadly line of fire everywhere you need it.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5551</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>122</ubGraphicNum>
 		<ubWeight>118</ubWeight>
@@ -171323,7 +171225,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The HK MG5 is a general purpose machine gun manufactured by Heckler &amp; Koch. The weapon is intended as a replacement for the well proven Rheinmetall MG3.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5553</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>121</ubGraphicNum>
 		<ubWeight>98</ubWeight>
@@ -171397,7 +171298,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5554</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>746</ubGraphicNum>
 		<ubWeight>98</ubWeight>
@@ -171476,7 +171376,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Always wanted to be like Rambo?  Now you can!  With the M60E3, you'll always look good taking out a drug cartel, mowing down local mob bosses, and stopping an entire invasion force on your own.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5555</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>93</ubGraphicNum>
 		<ubWeight>105</ubWeight>
@@ -171551,7 +171450,6 @@ the globe.</szItemDesc>
 		<szBRDesc>A heavier variant of the FN Mag, the M240B is the standard infantry medium machine gun of the U.S. Army.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5556</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>292</ubGraphicNum>
 		<ubWeight>125</ubWeight>
@@ -171627,7 +171525,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Despite various nicknames, this is a dead serious gun. With attachment points for both a bipod or a tripod, an Anti-Air sight, and very easily replaced barrels, you can see why this is THE General Purpose Machine Gun.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5557</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>324</ubGraphicNum>
 		<ubWeight>105</ubWeight>
@@ -172060,7 +171957,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The Lightweight Assault Gun provides highly controllable 7.62mm NATO effect with significant weight savings over comparable competitors.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5563</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1949</ubGraphicNum>
@@ -172212,7 +172108,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The LWMMG closes the gap between 7.62 LMGs and heavy .50 cal machineguns.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5565</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>323</ubGraphicNum>
 		<ubWeight>130</ubWeight>
@@ -172288,7 +172183,6 @@ the globe.</szItemDesc>
 		<szBRDesc>This 6.8SPC conversion of the FN Minimi packs a lot of punch in a compact package.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5566</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>116</ubGraphicNum>
 		<ubWeight>72</ubWeight>
@@ -172362,7 +172256,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5567</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>764</ubGraphicNum>
 		<ubWeight>72</ubWeight>
@@ -172459,7 +172352,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The Type 11 light machine gun was a design by famed arms designer Kijiro Nambu, based on a modification of the French Hotchkiss machine gun. It is an air-cooled, gas-operated design, using the same 6.5×50mm Arisaka cartridges as the Type 38 infantry rifle.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5570</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>974</ubGraphicNum>
 		<ubWeight>105</ubWeight>
@@ -172534,7 +172426,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The open hopper design of the Type 11 allows dust and grit to enter into the gun, which is liable to jam in muddy or dirty conditions due to issues with poor dimensional tolerances. The topfed Type 96 LMG fixes this issue, making the gun more reliable.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5571</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>1240</ubGraphicNum>
 		<ubWeight>95</ubWeight>
@@ -172711,7 +172602,6 @@ the globe.</szItemDesc>
 		<szBRDesc>An upgraded PKM, the Pecheneg is slightly lighter and has a higher rate of fire.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5576</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>187</ubGraphicNum>
 		<ubWeight>80</ubWeight>
@@ -172786,7 +172676,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Around since the 1960s, the PKM is one of the most famous Russian MGs and is used all over the world.  Now you have the chance to show your enemies that old school Soviet weapons are still superior!</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5577</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>95</ubGraphicNum>
 		<ubWeight>75</ubWeight>
@@ -173024,7 +172913,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Developed in the mid 1930s the M1919A4 was by far the most common variant and the first model of the M1919 designed for general use and featured the now standard 24" barrel.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5582</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>55</ubGraphicNum>
 		<ubWeight>125</ubWeight>
@@ -173100,7 +172988,6 @@ the globe.</szItemDesc>
 		<szBRDesc>An oldie but goodie with a high rate of fire, this classic belt-fed LMG will answer all your offensive and defensive needs.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5583</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>205</ubGraphicNum>
 		<ubWeight>138</ubWeight>
@@ -173432,7 +173319,6 @@ the globe.</szItemDesc>
 		<szBRDesc>A unique feature of the MG 34 was its double-crescent trigger, which provided select fire capability without the need for a fire mode selector switch.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5591</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>396</ubGraphicNum>
 		<ubWeight>121</ubWeight>
@@ -173506,7 +173392,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The MG42 has an insane rate of fire and is very reliable and accurate. Even today this classic WW II machinegun is a formidable weapon.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5592</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>566</ubGraphicNum>
 		<ubWeight>118</ubWeight>
@@ -173799,7 +173684,6 @@ the globe.</szItemDesc>
 		<szBRDesc>A later version of the ZB-26 LMG, the main differences of the ZB-30 are a beltfeed mechanism and a slightly longer barrel.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5596</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>582</ubGraphicNum>
 		<ubWeight>93</ubWeight>
@@ -174026,7 +173910,6 @@ the globe.</szItemDesc>
 		<szBRDesc>In the light machine gun configuration, the AA-52 is a relatively light weapon to carry.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5600</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>1011</ubGraphicNum>
 		<ubWeight>99</ubWeight>
@@ -181642,7 +181525,6 @@ the globe.</szItemDesc>
 		<szBRDesc>The M134 Minigun is a 7.62 mm, six-barreled machine gun with a high rate of fire. It's far too heavy and unwieldy to be carried around by a person and rather designed for mobile weapon platforms.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<ubClassIndex>5750</ubClassIndex>
-		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>397</ubGraphicNum>
 		<ubWeight>480</ubWeight>
@@ -184615,7 +184497,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>8</usItemClass>
 		<ubClassIndex>5803</ubClassIndex>
-		<ItemFlag>4096</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>792</ubGraphicNum>
 		<ubWeight>2</ubWeight>
@@ -186865,7 +186746,6 @@ the globe.</szItemDesc>
 		<szBRName>Balisong - folded</szBRName>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<ItemFlag>16384</ItemFlag>
 		<ubGraphicNum>931</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
@@ -187235,7 +187115,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>5907</ubClassIndex>
-		<ItemFlag>4</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1885</ubGraphicNum>
@@ -187891,7 +187770,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>5944</ubClassIndex>
-		<ItemFlag>4</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>625</ubGraphicNum>
@@ -187959,7 +187837,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>5949</ubClassIndex>
-		<ItemFlag>4</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1900</ubGraphicNum>
@@ -187994,7 +187871,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>5950</ubClassIndex>
-		<ItemFlag>4</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1886</ubGraphicNum>
@@ -188027,7 +187903,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>128</usItemClass>
 		<ubClassIndex>5951</ubClassIndex>
-		<ItemFlag>4</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1882</ubGraphicNum>
@@ -188757,7 +188632,6 @@ the globe.</szItemDesc>
 		<usItemClass>128</usItemClass>
 		<nasAttachmentClass>1</nasAttachmentClass>
 		<ubClassIndex>5991</ubClassIndex>
-		<ItemFlag>8192</ItemFlag>
 		<ubCursor>2</ubCursor>
 		<ubGraphicNum>369</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -193071,7 +192945,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1796</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -193213,7 +193086,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1797</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -193351,7 +193223,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1798</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1420</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -193498,7 +193369,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1795</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1421</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -193651,7 +193521,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1799</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1419</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -193815,7 +193684,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1800</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1009</ubGraphicNum>
 		<ubWeight>35</ubWeight>
@@ -195638,7 +195506,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1402</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>117</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -195766,7 +195633,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1403</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>117</ubGraphicNum>
 		<ubWeight>34</ubWeight>
@@ -217038,7 +216904,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>717</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1800</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -219815,7 +219680,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>823</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1800</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -219841,7 +219705,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>833</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1801</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -220059,7 +219922,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>824</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1629</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -220306,7 +220168,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>820</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1630</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -220332,7 +220193,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>830</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>343</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -220555,7 +220415,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>816</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1631</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -220579,7 +220438,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>826</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>243</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -220794,7 +220652,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>822</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1632</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -221040,7 +220897,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>819</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1633</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -221066,7 +220922,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>829</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>344</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -221298,7 +221153,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>818</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1634</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -221323,7 +221177,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>828</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>245</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -221553,7 +221406,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>821</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1629</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -221578,7 +221430,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>831</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>145</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -221809,7 +221660,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>825</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1634</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -221834,7 +221684,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>835</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>245</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -222071,7 +221920,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>817</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1635</ubGraphicNum>
 		<ubWeight>25</ubWeight>
@@ -222098,7 +221946,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>827</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>244</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -223258,7 +223105,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2506</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1869</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -223282,7 +223128,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2508</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1871</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -223385,7 +223230,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2505</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1870</ubGraphicNum>
 		<ubWeight>1</ubWeight>
@@ -223417,7 +223261,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2507</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1872</ubGraphicNum>
 		<ubWeight>5</ubWeight>
@@ -224058,7 +223901,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1714</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1804</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -224252,7 +224094,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1715</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1248</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -224444,7 +224285,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1713</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1249</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -224647,7 +224487,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1712</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1248</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -224853,7 +224692,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1716</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1249</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -225067,7 +224905,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1711</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1248</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -225315,7 +225152,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2594</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -225459,7 +225295,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2595</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1008</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -225603,7 +225438,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2593</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1420</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -225762,7 +225596,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>2592</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1419</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -227384,7 +227217,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1045</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1809</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -227604,7 +227436,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1046</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1623</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -227846,7 +227677,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1042</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1624</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -228067,7 +227897,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1044</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1625</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -228309,7 +228138,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1041</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1626</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -228547,7 +228375,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1040</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1627</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -228792,7 +228619,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1043</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1623</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -229034,7 +228860,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1039</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1628</ubGraphicNum>
 		<ubWeight>29</ubWeight>
@@ -229270,7 +229095,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>944</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1816</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -229763,7 +229587,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>941</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>352</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -230013,7 +229836,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>937</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>281</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -230502,7 +230324,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>940</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>353</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -230760,7 +230581,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>939</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>283</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -231019,7 +230839,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>942</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>164</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -231279,7 +231098,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>946</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>165</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -231542,7 +231360,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>938</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>282</ubGraphicNum>
 		<ubWeight>33</ubWeight>
@@ -231730,7 +231547,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1383</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>412</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -231873,7 +231689,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1384</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>412</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -232031,7 +231846,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1382</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>756</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -232178,7 +231992,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1385</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1079</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -232333,7 +232146,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1386</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>413</ubGraphicNum>
 		<ubWeight>62</ubWeight>
@@ -234144,7 +233956,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1644</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1429</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -234206,7 +234017,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1649</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1126</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -234432,7 +234242,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1645</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1429</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -234492,7 +234301,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1650</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1126</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -234668,7 +234476,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1648</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1432</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -234698,7 +234505,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1653</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1289</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -234932,7 +234738,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1646</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1430</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -234993,7 +234798,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1651</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1127</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -235162,7 +234966,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1647</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1431</ubGraphicNum>
 		<ubWeight>18</ubWeight>
@@ -235190,7 +234993,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>1652</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1284</ubGraphicNum>
 		<ubWeight>30</ubWeight>
@@ -237447,7 +237249,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>332</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1629</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -239511,7 +239312,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>328</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1630</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -240041,7 +239841,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>331</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1632</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -242478,7 +242277,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>333</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1629</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -242971,7 +242769,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>325</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1634</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -243592,7 +243389,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>329</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1629</ubGraphicNum>
 		<ubWeight>20</ubWeight>
@@ -244104,7 +243900,6 @@ the globe.</szItemDesc>
 		<szBRDesc>Not for sale.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<ubClassIndex>324</ubClassIndex>
-		<ItemFlag>256</ItemFlag>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>1635</ubGraphicNum>
 		<ubWeight>20</ubWeight>
